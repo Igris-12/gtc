@@ -1,1 +1,1 @@
-# gtc-app
+# gtc
